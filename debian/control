@@ -1,0 +1,12 @@
+Source: ros-melodic-dingo-gazebo
+Section: misc
+Priority: optional
+Maintainer: Tony Baltovski <tbaltovski@clearpathrobotics.com>
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-catkin, ros-melodic-roslaunch
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-melodic-dingo-gazebo
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-melodic-dingo-control, ros-melodic-dingo-description, ros-melodic-gazebo-plugins, ros-melodic-gazebo-ros, ros-melodic-gazebo-ros-control, ros-melodic-hector-gazebo-plugins, ros-melodic-ridgeback-gazebo-plugins
+Description: Launchfiles to use Dingo in Gazebo.
