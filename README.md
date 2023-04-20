@@ -1,3 +1,28 @@
+## dingo_simulator (noetic) - 0.1.2-1
+
+The packages in the `dingo_simulator` repository were released into the `noetic` distro by running `/usr/bin/bloom-release dingo_simulator -r noetic -t noetic` on `Thu, 20 Apr 2023 22:18:03 -0000`
+
+These packages were released:
+- `dingo_gazebo`
+- `dingo_simulator`
+
+Version of package(s) in repository `dingo_simulator`:
+
+- upstream repository: https://github.com/dingo-cpr/dingo_simulator.git
+- release repository: https://github.com/clearpath-gbp/dingo_simulator-release.git
+- rosdistro version: `0.1.1-1`
+- old version: `0.1.1-1`
+- new version: `0.1.2-1`
+
+Versions of tools used:
+
+- bloom version: `0.11.2`
+- catkin_pkg version: `0.5.2`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## dingo_simulator (noetic) - 0.1.1-1
 
 The packages in the `dingo_simulator` repository were released into the `noetic` distro by running `/usr/bin/bloom-release -r noetic -t noetic dingo_simulator` on `Mon, 07 Feb 2022 14:46:48 -0000`
